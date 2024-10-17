@@ -1,0 +1,1 @@
+El objetivo de las practicas es aprender a suber archivos y desarrollar nuestra logica
